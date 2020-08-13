@@ -5,7 +5,7 @@
 ### Projects
 
 [Pose and Appearance Disentanglement](/sample_page)
-<img src="images/disentangle.png?raw=true"/>
+<img src="images/Disentangle.png?raw=true"/>
 
 ---
 [Dance Motion Transfer](/pdf/sample_presentation.pdf)
