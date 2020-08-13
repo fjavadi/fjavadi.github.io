@@ -1,7 +1,8 @@
 title: Farnoosh Javadi # your name (or website title) here
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+logo: "/images/Fran.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Currently, I am studying Master of Computer Science at the University of British Columbia, working with Jim Little and Helge Rhodin.
+  Currently, I am studying Master of Computer Science at the University of British Columbia, working with <a href="https://www.cs.ubc.ca/~little/">Jim Little</a> 
+  and <a href="https://www.cs.ubc.ca/~rhodin/">Helge Rhodin</a> .
 My research interests are Computer Vision, Machine Learning and Natural Language Processing. 
   <br><br>
   Second description 
