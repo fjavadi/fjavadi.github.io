@@ -5,19 +5,19 @@
 ### Projects
 
 [Pose and Appearance Disentanglement](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/disentangle.png?raw=true"/>
 
 ---
 [Dance Motion Transfer](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dance.png?raw=true"/>
 
 ---
 [Text to Image](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/text.png?raw=true"/>
 
 ---
 [Fake News Detection](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/fake.jpg?raw=true"/>
 
 ---
 
