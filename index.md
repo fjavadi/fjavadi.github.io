@@ -4,11 +4,11 @@
 
 ### Projects
 
-[Pose and Appearance Disentanglement](/sample_page)
+[Pose and Appearance Disentanglement](/project1)
 <img src="images/disentangle.png?raw=true" width="500" height="230">
 
 ---
-[Dance Motion Transfer](/pdf/sample_presentation.pdf)
+[Dance Motion Transfer](/project2)
 <img src="images/dance.png?raw=true" width="500" height="210">
 
 ---
