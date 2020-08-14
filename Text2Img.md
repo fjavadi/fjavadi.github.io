@@ -5,5 +5,5 @@
 For more details see [report](/pdf/text.pdf).
 <figure>
   <img src="images/texttoimg.png?raw=true">
-  <figcaption> <small> Image source from <a href="https://arxiv.org/pdf/1605.05396.pdf">this link</a>. </small> </figcaption>
+  <figcaption style="font-size: 8px"> Image source from <a href="https://arxiv.org/pdf/1605.05396.pdf">this link</a>.  </figcaption>
 </figure>
