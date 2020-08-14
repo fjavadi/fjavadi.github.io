@@ -12,8 +12,8 @@
 <img src="images/bird.png?raw=true" width="600" height="140">
 
 ---
-[Fake News Detection](http://example.com/)
-<img src="images/fake.jpg?raw=true" width="200" height="200">
+[Fake News Detection](/FakeNews)
+<img src="images/fake.jpg?raw=true" width="200" height="190">
 
 ---
 
