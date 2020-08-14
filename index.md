@@ -9,7 +9,7 @@
 
 ---
 [Dance Motion Transfer](/pdf/sample_presentation.pdf)
-<img src="images/dance.png?raw=true" width="200" height="200">
+<img src="images/dance.png?raw=true" width="500" height="200">
 
 ---
 [Text to Image](http://example.com/)
