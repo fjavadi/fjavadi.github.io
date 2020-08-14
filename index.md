@@ -13,11 +13,11 @@
 
 ---
 [Fake News Detection](/FakeNews)
-<img src="images/fake.jpg?raw=true" width="200" height="190">
+<img src="images/fake.jpg?raw=true" width="200" height="180">
 
 ---
 [Persian Word Embedding learning](/PersianEmbedding)
-<img src="images/word2vec2.png?raw=true" width="380" height="200">
+<img src="images/word2vec2.png?raw=true" width="200" height="190">
 
 ---
 ## Education
