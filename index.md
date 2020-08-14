@@ -1,8 +1,4 @@
-## Portfolio
-
----
-
-### Projects
+## Projects
 
 [Pose and Appearance Disentanglement](/PoseAppDisentanglement)
 <img src="images/disentangle.png?raw=true" width="500" height="230">
@@ -21,7 +17,7 @@
 
 ---
 
-### Education
+## Education
 <table width="100%" align="center" border="0" cellpadding="20"><tbody>
           <tr>
             <td style="padding:20px;width:20%;vertical-align:middle"><img src="images/ubc.png"></td>
