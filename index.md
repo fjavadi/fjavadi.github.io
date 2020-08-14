@@ -27,7 +27,16 @@
 - <b>[Sharif University of Technology](http://ce.sharif.edu//)</b> <br> B.Sc. in Computer Engineering
 
 ---
-
+<table width="100%" align="center" border="0" cellpadding="20"><tbody>
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle"><img src="images/ubc.jpg"></td>
+            <td width="75%" valign="center">
+              <a href="http://cvpr2019.thecvf.com/area_chairs">Area Chair, CVPR 2019</a>
+              <br>
+              <br>
+              <a href="http://cvpr2018.thecvf.com/organizers/area_chairs">Area Chair, CVPR 2018</a>
+            </td>
+          </tr>
 
 
 
