@@ -29,12 +29,12 @@
 ---
 <table width="100%" align="center" border="0" cellpadding="20"><tbody>
           <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle"><img src="images/ubc.jpg"></td>
+            <td style="padding:20px;width:25%;vertical-align:middle"><img src="images/ubc.png"></td>
             <td width="75%" valign="center">
-              <a href="http://cvpr2019.thecvf.com/area_chairs">Area Chair, CVPR 2019</a>
+              <a href="http://www.cs.ubc.ca//">University of British Columbia</a>
               <br>
-              <br>
-              <a href="http://cvpr2018.thecvf.com/organizers/area_chairs">Area Chair, CVPR 2018</a>
+              M.Sc. in Computer Science <br>
+              Supervisors: [Jim Little](http://www.cs.ubc.ca/~little/), [Helge Rhodin](http://www.cs.ubc.ca/~rhodin/)
             </td>
           </tr>
 
