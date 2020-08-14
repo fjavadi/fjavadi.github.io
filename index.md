@@ -8,7 +8,7 @@
 <img src="images/dance.png?raw=true" width="500" height="210">
 
 ---
-[Text to Image](/Text2Img)
+[Text to Image Synthesis](/Text2Img)
 <img src="images/bird.png?raw=true" width="600" height="140">
 
 ---
@@ -16,7 +16,10 @@
 <img src="images/fake.jpg?raw=true" width="200" height="190">
 
 ---
+[Persian Word Embedding learning](/PersianEmbedding)
+<img src="images/word2vec2.jpg?raw=true" width="200" height="190">
 
+---
 ## Education
 <table width="100%" align="center" border="0" cellpadding="20"><tbody>
           <tr>
