@@ -23,11 +23,8 @@
 
 ### Education
 
-- [University of British Columbia](http://example.com/)
-- [Sharif University of Technology](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [University of British Columbia](http://www.cs.ubc.ca//)
+- [Sharif University of Technology](http://ce.sharif.edu//)
 
 ---
 
