@@ -23,13 +23,9 @@
 
 ### Education
 
-- <b>[University of British Columbia](http://www.cs.ubc.ca//)</b> <br> M.Sc. in Computer Science <br> Supervisors: [Jim Little](http://www.cs.ubc.ca/~little/), [Helge Rhodin](http://www.cs.ubc.ca/~rhodin/) <br> <br>
-- <b>[Sharif University of Technology](http://ce.sharif.edu//)</b> <br> B.Sc. in Computer Engineering
-
----
 <table width="100%" align="center" border="0" cellpadding="20"><tbody>
           <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle"><img src="images/ubc.png"></td>
+            <td style="padding:20px;width:20%;vertical-align:middle"><img src="images/ubc.png"></td>
             <td width="75%" valign="center">
               <b><a href="http://www.cs.ubc.ca//">University of British Columbia</a></b>
               <br>
@@ -37,6 +33,19 @@
                       Supervisors: <a href="http://www.cs.ubc.ca/~little/">Jim Little</a>, <a href="http://www.cs.ubc.ca/~rhodin/">Helge Rhodin</a>
             </td>
           </tr>
+          <br> <br>
+<table width="100%" align="center" border="0" cellpadding="20"><tbody>
+          <tr>
+            <td style="padding:20px;width:20%;vertical-align:middle"><img src="images/sharif.png"></td>
+            <td width="75%" valign="center">
+              <b><a href="http://ce.sharif.edu//">Sharif University of Technology</a></b>
+              <br>
+              B.Sc. in Computer Engineering
+            </td>
+          </tr>
+
+---
+
 
 
 
