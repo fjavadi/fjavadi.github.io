@@ -4,11 +4,11 @@
 
 ### Projects
 
-[Pose and Appearance Disentanglement](/project1)
+[Pose and Appearance Disentanglement](/PoseAppDisentanglement)
 <img src="images/disentangle.png?raw=true" width="500" height="230">
 
 ---
-[Dance Motion Transfer](/project2)
+[Dance Motion Transfer](/DanceMotion)
 <img src="images/dance.png?raw=true" width="500" height="210">
 
 ---
