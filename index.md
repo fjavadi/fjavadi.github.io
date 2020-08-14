@@ -23,8 +23,8 @@
 
 ### Education
 
-- [University of British Columbia](http://www.cs.ubc.ca//) <br> M.Sc. in Computer Science <br> Supervisors: [Jim Little](http://www.cs.ubc.ca/~little/), [Helge Rhodin](http://www.cs.ubc.ca/~rhodin/)
-- [Sharif University of Technology](http://ce.sharif.edu//) <br> B.Sc. in Computer Engineering
+- <b>[University of British Columbia](http://www.cs.ubc.ca//)</b> <br> M.Sc. in Computer Science <br> Supervisors: [Jim Little](http://www.cs.ubc.ca/~little/), [Helge Rhodin](http://www.cs.ubc.ca/~rhodin/) <br>
+- <b>[Sharif University of Technology](http://ce.sharif.edu//)</b> <br> B.Sc. in Computer Engineering
 
 ---
 
