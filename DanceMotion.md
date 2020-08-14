@@ -4,4 +4,4 @@
 
 For more details see [report](/pdf/DanceMotion.pdf).
 
-<img src="images/dance.gif?raw=true" width="800" height="400">
+<img src="images/dance.gif?raw=true">
