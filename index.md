@@ -13,7 +13,7 @@
 
 ---
 [Text to Image](/project3)
-<img src="images/text.png?raw=true" width="200" height="200">
+<img src="images/text.png?raw=true" width="500" height="150">
 
 ---
 [Fake News Detection](http://example.com/)
