@@ -17,7 +17,7 @@
 
 ---
 [Persian Word Embedding learning](/PersianEmbedding)
-<img src="images/word2vec2.png?raw=true" width="205" height="115">
+<img src="images/word2vec2.png?raw=true" width="380" height="200">
 
 ---
 ## Education
