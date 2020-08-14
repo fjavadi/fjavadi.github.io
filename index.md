@@ -31,7 +31,7 @@
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle"><img src="images/ubc.png"></td>
             <td width="75%" valign="center">
-              <a href="http://www.cs.ubc.ca//">University of British Columbia</a>
+              <b><a href="http://www.cs.ubc.ca//">University of British Columbia</a></b>
               <br>
               M.Sc. in Computer Science <br>
                       Supervisors: <a href="http://www.cs.ubc.ca/~little/">Jim Little</a>, <a href="http://www.cs.ubc.ca/~rhodin/">Helge Rhodin</a>
