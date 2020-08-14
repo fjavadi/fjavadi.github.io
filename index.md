@@ -34,7 +34,7 @@
               <a href="http://www.cs.ubc.ca//">University of British Columbia</a>
               <br>
               M.Sc. in Computer Science <br>
-              Supervisors: [Jim Little](http://www.cs.ubc.ca/~little/), [Helge Rhodin](http://www.cs.ubc.ca/~rhodin/)
+              Supervisors: href="http://www.cs.ubc.ca/~little/">Jim Little</, [Jim Little](http://www.cs.ubc.ca/~little/), [Helge Rhodin](http://www.cs.ubc.ca/~rhodin/)
             </td>
           </tr>
 
