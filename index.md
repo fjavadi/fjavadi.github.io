@@ -17,7 +17,10 @@
 
 ---
 [Persian Word Embedding learning](/PersianEmbedding)
-<img src="images/word2vec2.png?raw=true" width="500" height="265">
+<figure>
+  <img src="images/word2vec2.png?raw=true" width="500" height="265">
+  <figcaption style="font-size: 6px"> Image source from <a href="https://www.semanticscholar.org/paper/Robust-Representation-Learning-for-Low-Resource-Akhtar-Shrivastava/95845fa4046f75df4fc83290ea4431d4a5730f28">this link</a>.  </figcaption>
+</figure>
 
 ---
 ## Education
