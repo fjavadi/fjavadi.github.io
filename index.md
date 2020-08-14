@@ -34,7 +34,7 @@
             </td>
           </tr>
           <br> <br>
-<div><table width="80%" align="center" border="0" cellpadding="20"><tbody>
+<div><table width="100%" align="center" border="0" cellpadding="20"><tbody>
           <tr>
             <td style="padding:20px;width:20%;vertical-align:middle"><img src="images/sharif.png"></td>
             <td width="75%" valign="center">
@@ -44,6 +44,7 @@
             </td>
           </tr>
 </div>
+<br>
 ---
 
 
