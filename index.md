@@ -34,7 +34,7 @@
             </td>
           </tr>
           <br> <br>
-<table width="100%" align="center" border="0" cellpadding="20"><tbody>
+<div><table width="100%" align="center" border="0" cellpadding="20"><tbody>
           <tr>
             <td style="padding:20px;width:20%;vertical-align:middle"><img src="images/sharif.png"></td>
             <td width="75%" valign="center">
@@ -43,10 +43,10 @@
               B.Sc. in Computer Engineering
             </td>
           </tr>
-
+</div>
 ---
 
 
 
-
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
