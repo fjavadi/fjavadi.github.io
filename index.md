@@ -13,7 +13,7 @@
 
 ---
 [Text to Image](/Text2Img)
-<img src="images/bird.png?raw=true" width="600" height="140">
+<img src="images/bird.png?raw=true" width="500" height="140">
 
 ---
 [Fake News Detection](http://example.com/)
