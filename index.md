@@ -9,15 +9,15 @@
 
 ---
 [Dance Motion Transfer](/pdf/sample_presentation.pdf)
-<img src="images/dance.png?raw=true"/>
+<img src="images/dance.png?raw=true" width="200" height="200">
 
 ---
 [Text to Image](http://example.com/)
-<img src="images/text.png?raw=true"/>
+<img src="images/text.png?raw=true" width="200" height="200">
 
 ---
 [Fake News Detection](http://example.com/)
-<img src="images/fake.jpg?raw=true"/>
+<img src="images/fake.jpg?raw=true" width="200" height="200">
 
 ---
 
