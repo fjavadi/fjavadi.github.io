@@ -22,7 +22,6 @@
 ---
 
 ### Education
-
 <table width="100%" align="center" border="0" cellpadding="20"><tbody>
           <tr>
             <td style="padding:20px;width:20%;vertical-align:middle"><img src="images/ubc.png"></td>
@@ -33,7 +32,7 @@
                       Supervisors: <a href="http://www.cs.ubc.ca/~little/">Jim Little</a>, <a href="http://www.cs.ubc.ca/~rhodin/">Helge Rhodin</a>
             </td>
           </tr>
-          <br> <br>
+          <br>
 <table width="100%" align="center" border="0" cellpadding="20"><tbody>
           <tr>
             <td style="padding:20px;width:20%;vertical-align:middle"><img src="images/sharif.png"></td>
@@ -43,4 +42,3 @@
               B.Sc. in Computer Engineering
             </td>
           </tr>
-<br>
