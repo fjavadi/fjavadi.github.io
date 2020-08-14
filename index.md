@@ -13,7 +13,7 @@
 
 ---
 [Fake News Detection](/FakeNews)
-<img src="images/fake.jpg?raw=true" width="200" height="180">
+<img src="images/fake.jpg?raw=true" width="500" height="220">
 
 ---
 [Persian Word Embedding learning](/PersianEmbedding)
